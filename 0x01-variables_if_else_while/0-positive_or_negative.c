@@ -2,13 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- 
- * main function to geneate a random number
- *
+ * main-function is to geneate a random number
  * Return: Always zero when success
- *
  */
-
 
 int main(void)
 {
@@ -29,6 +25,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	
 		return (0);
 }
